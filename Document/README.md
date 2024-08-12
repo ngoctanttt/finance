@@ -2,7 +2,7 @@
 
 Finance Project là một dự án cá nhân của tôi khi tôi có nhu cầu quản lý chi tiêu cá nhân.
 
-2. Những khó khăn phát sinh sau khoảng thời gian đi làm:
+1. Những khó khăn phát sinh sau khoảng thời gian đi làm:
    * Có nhiều nguồn thu nhập cũng như nhiều khoản chi tiêu cần sử dụng hơn.
    * Lịch sinh hoạt sau khi tốt nghiệp Đại học và tham gia vào thị trường lao động khác hẳn với khoảng thời gian trước đây làm thay đổi nhiều thói quen.
    * Việc tài chính có cải thiện sẽ làm tăng cao nhu cầu chi tiêu và làm tăng những khoản chi tiêu không cần thiêt, gây kéo dài khoảng thời gian tích lũy tài sản.
